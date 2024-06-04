@@ -1,9 +1,16 @@
 [
+    {
+    "name": "Minecraft 1.5.2",
+    "fontSize": 18,
+    "link": "/games1/eaglercraft/1.5.2.html",
+    "image": "images/minecraft1.png",
+    "embed": false
+  },
   {
-    "name": "Minecraft",
-    "fontSize": 20,
-    "link": "https://gmaiill.github.io/gmail-by-google/",
-    "image": "images/Minecraft.jpg",
+    "name": "Minecraft 1.8.8",
+    "fontSize": 18,
+    "link": "/games1/eaglercraft/1.8.8.html",
+    "image": "images/minecraft2.png",
     "embed": false
   }
 ]
