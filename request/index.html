@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Google</title>
+    <link href='https://fonts.googleapis.com/css?family=Maven Pro' rel='stylesheet'>
+    <link rel="icon" type="image/x-icon" href="/favicon.png">
+    <style>
+      body {
+        margin: 0;
+        font-family: 'Maven Pro';
+        font-weight: bold;
+        color: white;
+        font-size: 35px;
+        overflow: hidden;
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .tabs {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+      }
+
+      .tab-button {
+        border: 2px solid white;
+        border-radius: 10px;
+        background-color: transparent;
+        padding: 5px 10px;
+        font-size: 25px;
+        font-family: 'Maven Pro';
+        cursor: pointer;
+        margin: 0 8px;
+        color: white;
+        transition: transform 0.2s, font-size 0.2s;
+      }
+
+      .tab-button:hover {
+        transform: scale(1.05);
+        font-size: 27px;
+      }
+
+      .content {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+      }
+
+      #content-container {
+        width: 100%;
+        height: 100%;
+      }
+
+      #content-frame {
+        width: 75vh;
+        height: 90vh;
+        border: none;
+      }
+
+      canvas {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: -1;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="tabs">
+      <button class="tab-button" onclick="window.location.href = '/';" ;>home</button>
+      <button class="tab-button" onclick="window.location.href = '/games/';">games</button>
+    </div>
+    <iframe id="content-frame" src="https://docs.google.com/forms/d/e/1FAIpQLSd4BqPzIFoQ8N0-moGomPV0P2UVMaqLZCBMMuRq8CoIr9YSPA/viewform?embedded=true"></iframe>
+  </body>
+</html>
