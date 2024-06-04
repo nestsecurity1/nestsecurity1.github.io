@@ -12,5 +12,19 @@
     "link": "/games1/eaglercraft/1.8.8.html",
     "image": "images/minecraft2.png",
     "embed": false
+  },
+  {
+    "name": "1v1.LOL",
+    "fontSize": 20,
+    "link": "/games1/1v1LOL.html",
+    "image": "images/1v1.LOL.png",
+    "embed": true
+  },
+  {
+    "name": "1v1.LOL OG",
+    "fontSize": 20,
+    "link": "/games1/1v1LOL-original.html",
+    "image": "images/1v1lolOG.png",
+    "embed": true
   }
 ]
