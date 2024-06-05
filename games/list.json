@@ -40,5 +40,33 @@
     "link": "/games1/stuntcars2.html",
     "image": "images/MadalinStuntCars2.png",
     "embed": true
+  },
+  {
+    "name": "Basket Random",
+    "fontSize": 20,
+    "link": "/games1/random/basket.html",
+    "image": "images/BasketRandom.png",
+    "embed": true
+  },
+  {
+    "name": "Boxing Random",
+    "fontSize": 20,
+    "link": "/games1/random/boxing.html",
+    "image": "images/BoxingRandom.png",
+    "embed": true
+  },
+  {
+    "name": "Soccer Random",
+    "fontSize": 20,
+    "link": "/games1/random/soccer.html",
+    "image": "images/SoccerRandom.png",
+    "embed": true
+  },
+  {
+    "name": "Volley Random",
+    "fontSize": 20,
+    "link": "/games1/random/volley.html",
+    "image": "images/VolleyRandom.png",
+    "embed": true
   }
 ]
