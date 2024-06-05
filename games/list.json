@@ -26,5 +26,19 @@
     "link": "/games1/1v1LOL-original.html",
     "image": "images/1v1lolOG.png",
     "embed": true
+  },
+  {
+    "name": "Madalin Cars Multiplayer",
+    "fontSize": 14,
+    "link": "https://script.google.com/macros/s/AKfycbzlI0f1-ecYPbzoBR3OvE5nBH-krlom4UKH28DjIm-f4FGM3nA5g__x1N-EGVph-M46YA/exec",
+    "image": "images/MadalinMultiplayer.png",
+    "embed": true
+  },
+  {
+    "name": "Madalin Stunt Cars 2",
+    "fontSize": 14,
+    "link": "/games1/stuntcars2.html",
+    "image": "images/MadalinStuntCars2.png",
+    "embed": true
   }
 ]
