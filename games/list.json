@@ -90,4 +90,11 @@
     "image": "images/buckshot.png",
     "embed": true
   },
+  {
+    "name": "BitLife",
+    "fontSize": 20,
+    "link": "https://nestsecurity1.github.io/games1/bitlife/index.html",
+    "image": "images/BitLife.jpg",
+    "embed": true
+  }
 ]
