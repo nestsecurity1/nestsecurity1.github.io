@@ -82,5 +82,12 @@
     "link": "https://nestsecurity1.github.io/snake/v/current/index.html",
     "image": "images/snake.png",
     "embed": true
-  }
+  },
+  {
+    "name": "Buckshot Roulette",
+    "fontSize": 18,
+    "link": "https://script.google.com/macros/s/AKfycbxQI-CGl67grLz-xz3OWSY6u7XHf0x3SPBXdpAt5N6j0Hvyy1AnwL1srZtJwkYi1jzEkg/exec",
+    "image": "images/buckshot.png",
+    "embed": true
+  },
 ]
