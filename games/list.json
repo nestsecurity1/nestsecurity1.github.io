@@ -68,5 +68,12 @@
     "link": "/games1/random/volley.html",
     "image": "images/VolleyRandom.png",
     "embed": true
-  }
+  },
+  {
+    "name": "Slope",
+    "fontSize": 20,
+    "link": "https://nestsecurity1.github.io/games1/slope/index.html",
+    "image": "images/Slope.jpg",
+    "embed": true
+  },
 ]
