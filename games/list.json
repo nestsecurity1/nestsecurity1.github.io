@@ -42,8 +42,8 @@
     "embed": true
   },
   {
-    "name": "Basket Random",
-    "fontSize": 20,
+    "name": "Basket Random (broken)",
+    "fontSize": 14,
     "link": "/games1/random/basket.html",
     "image": "images/BasketRandom.png",
     "embed": true
