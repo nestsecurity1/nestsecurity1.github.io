@@ -76,4 +76,11 @@
     "image": "images/Slope.jpg",
     "embed": true
   },
+  {
+    "name": "Google Snake",
+    "fontSize": 20,
+    "link": "https://nestsecurity1.github.io/snake/v/current/index.html",
+    "image": "images/snake.png",
+    "embed": true
+  },
 ]
